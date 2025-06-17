@@ -51,7 +51,7 @@ git commit -m "feat: tambah blog andri"
 ### 5. Push ke GitHub
 
 ```bash
-git push origin feat/blog-andri
+git push origin main
 ```
 
 ### 6. Buat Pull Request
